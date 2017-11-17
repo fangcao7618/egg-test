@@ -10,7 +10,7 @@ exports.view = {
 // 添加 news 的配置项
 exports.news = {
     pageSize: 5,
-    serverUrl: 'https://hacker-news.firebaseio.com/v0',
+    serverUrl: 'http://172.18.18.194:3333/chongqingCenterPro/btoa/portal/marketing/operation',
 };
 exports.robot = {
     ua: [
