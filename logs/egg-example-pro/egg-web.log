@@ -1,0 +1,477 @@
+2017-11-16 16:06:30,418 INFO 15173 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 16:06:30,447 INFO 15173 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 16:06:30,447 INFO 15173 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 16:06:30,483 INFO 15173 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 16:06:30,485 INFO 15173 [egg-security] use csrf middleware
+2017-11-16 16:06:30,486 INFO 15173 [egg-security] use methodnoallow middleware
+2017-11-16 16:06:30,486 INFO 15173 [egg-security] use noopen middleware
+2017-11-16 16:06:30,486 INFO 15173 [egg-security] use nosniff middleware
+2017-11-16 16:06:30,487 INFO 15173 [egg-security] use xssProtection middleware
+2017-11-16 16:06:30,487 INFO 15173 [egg-security] use xframe middleware
+2017-11-16 16:06:30,487 INFO 15173 [egg-security] use dta middleware
+2017-11-16 16:06:30,487 INFO 15173 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 16:06:30,515 INFO 15173 [egg-watcher:app] watcher start success
+2017-11-16 16:10:01,524 INFO 15372 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 16:10:01,551 INFO 15372 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 16:10:01,551 INFO 15372 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 16:10:01,576 INFO 15372 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 16:10:01,578 INFO 15372 [egg-security] use csrf middleware
+2017-11-16 16:10:01,579 INFO 15372 [egg-security] use methodnoallow middleware
+2017-11-16 16:10:01,579 INFO 15372 [egg-security] use noopen middleware
+2017-11-16 16:10:01,579 INFO 15372 [egg-security] use nosniff middleware
+2017-11-16 16:10:01,580 INFO 15372 [egg-security] use xssProtection middleware
+2017-11-16 16:10:01,580 INFO 15372 [egg-security] use xframe middleware
+2017-11-16 16:10:01,580 INFO 15372 [egg-security] use dta middleware
+2017-11-16 16:10:01,580 INFO 15372 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 16:10:01,608 INFO 15372 [egg-watcher:app] watcher start success
+2017-11-16 16:53:09,520 INFO 16584 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 16:53:09,542 INFO 16584 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 16:53:09,542 INFO 16584 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 16:53:09,570 INFO 16584 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 16:53:09,572 INFO 16584 [egg-security] use csrf middleware
+2017-11-16 16:53:09,573 INFO 16584 [egg-security] use methodnoallow middleware
+2017-11-16 16:53:09,573 INFO 16584 [egg-security] use noopen middleware
+2017-11-16 16:53:09,573 INFO 16584 [egg-security] use nosniff middleware
+2017-11-16 16:53:09,574 INFO 16584 [egg-security] use xssProtection middleware
+2017-11-16 16:53:09,574 INFO 16584 [egg-security] use xframe middleware
+2017-11-16 16:53:09,574 INFO 16584 [egg-security] use dta middleware
+2017-11-16 16:53:09,574 INFO 16584 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 16:53:09,601 INFO 16584 [egg-watcher:app] watcher start success
+2017-11-16 16:53:12,650 INFO 16584 [egg-view-nunjucks] loading templates from ["/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/view"]
+2017-11-16 16:54:33,688 INFO 16681 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 16:54:33,712 INFO 16681 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 16:54:33,712 INFO 16681 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 16:54:33,741 INFO 16681 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 16:54:33,743 INFO 16681 [egg-security] use csrf middleware
+2017-11-16 16:54:33,744 INFO 16681 [egg-security] use methodnoallow middleware
+2017-11-16 16:54:33,744 INFO 16681 [egg-security] use noopen middleware
+2017-11-16 16:54:33,745 INFO 16681 [egg-security] use nosniff middleware
+2017-11-16 16:54:33,745 INFO 16681 [egg-security] use xssProtection middleware
+2017-11-16 16:54:33,745 INFO 16681 [egg-security] use xframe middleware
+2017-11-16 16:54:33,746 INFO 16681 [egg-security] use dta middleware
+2017-11-16 16:54:33,746 INFO 16681 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 16:54:33,773 INFO 16681 [egg-watcher:app] watcher start success
+2017-11-16 17:11:23,390 INFO 16932 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 17:11:23,414 INFO 16932 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 17:11:23,414 INFO 16932 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 17:11:23,452 INFO 16932 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 17:11:23,455 INFO 16932 [egg-security] use csrf middleware
+2017-11-16 17:11:23,455 INFO 16932 [egg-security] use methodnoallow middleware
+2017-11-16 17:11:23,456 INFO 16932 [egg-security] use noopen middleware
+2017-11-16 17:11:23,456 INFO 16932 [egg-security] use nosniff middleware
+2017-11-16 17:11:23,457 INFO 16932 [egg-security] use xssProtection middleware
+2017-11-16 17:11:23,457 INFO 16932 [egg-security] use xframe middleware
+2017-11-16 17:11:23,457 INFO 16932 [egg-security] use dta middleware
+2017-11-16 17:11:23,457 INFO 16932 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 17:11:23,492 INFO 16932 [egg-watcher:app] watcher start success
+2017-11-16 17:44:53,714 INFO 17264 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 17:44:53,739 INFO 17264 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 17:44:53,739 INFO 17264 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 17:44:53,804 INFO 17264 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 17:44:53,806 INFO 17264 [egg-security] use csrf middleware
+2017-11-16 17:44:53,807 INFO 17264 [egg-security] use methodnoallow middleware
+2017-11-16 17:44:53,808 INFO 17264 [egg-security] use noopen middleware
+2017-11-16 17:44:53,809 INFO 17264 [egg-security] use nosniff middleware
+2017-11-16 17:44:53,810 INFO 17264 [egg-security] use xssProtection middleware
+2017-11-16 17:44:53,810 INFO 17264 [egg-security] use xframe middleware
+2017-11-16 17:44:53,811 INFO 17264 [egg-security] use dta middleware
+2017-11-16 17:44:53,811 INFO 17264 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 17:44:53,840 INFO 17264 [egg-watcher:app] watcher start success
+2017-11-16 17:44:59,424 INFO 17264 [egg-view-nunjucks] loading templates from ["/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/view"]
+2017-11-16 17:56:21,411 INFO 17998 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 17:56:21,428 INFO 17998 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 17:56:21,429 INFO 17998 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 17:56:21,489 INFO 17998 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 17:56:21,491 INFO 17998 [egg-security] use csrf middleware
+2017-11-16 17:56:21,493 INFO 17998 [egg-security] use methodnoallow middleware
+2017-11-16 17:56:21,494 INFO 17998 [egg-security] use noopen middleware
+2017-11-16 17:56:21,494 INFO 17998 [egg-security] use nosniff middleware
+2017-11-16 17:56:21,495 INFO 17998 [egg-security] use xssProtection middleware
+2017-11-16 17:56:21,496 INFO 17998 [egg-security] use xframe middleware
+2017-11-16 17:56:21,497 INFO 17998 [egg-security] use dta middleware
+2017-11-16 17:56:21,497 INFO 17998 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 17:56:21,526 INFO 17998 [egg-watcher:app] watcher start success
+2017-11-16 17:56:25,495 INFO 17998 [egg-view-nunjucks] loading templates from ["/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/view"]
+2017-11-16 17:58:32,099 INFO 18169 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 17:58:32,115 INFO 18169 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 17:58:32,115 INFO 18169 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 17:58:32,147 INFO 18169 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 17:58:32,150 INFO 18169 [egg-security] use csrf middleware
+2017-11-16 17:58:32,150 INFO 18169 [egg-security] use methodnoallow middleware
+2017-11-16 17:58:32,151 INFO 18169 [egg-security] use noopen middleware
+2017-11-16 17:58:32,151 INFO 18169 [egg-security] use nosniff middleware
+2017-11-16 17:58:32,151 INFO 18169 [egg-security] use xssProtection middleware
+2017-11-16 17:58:32,151 INFO 18169 [egg-security] use xframe middleware
+2017-11-16 17:58:32,152 INFO 18169 [egg-security] use dta middleware
+2017-11-16 17:58:32,152 INFO 18169 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 17:58:32,178 INFO 18169 [egg-watcher:app] watcher start success
+2017-11-16 17:59:22,116 INFO 18171 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 17:59:22,132 INFO 18171 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 17:59:22,132 INFO 18171 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 17:59:22,162 INFO 18171 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 17:59:22,164 INFO 18171 [egg-security] use csrf middleware
+2017-11-16 17:59:22,165 INFO 18171 [egg-security] use methodnoallow middleware
+2017-11-16 17:59:22,165 INFO 18171 [egg-security] use noopen middleware
+2017-11-16 17:59:22,165 INFO 18171 [egg-security] use nosniff middleware
+2017-11-16 17:59:22,165 INFO 18171 [egg-security] use xssProtection middleware
+2017-11-16 17:59:22,166 INFO 18171 [egg-security] use xframe middleware
+2017-11-16 17:59:22,166 INFO 18171 [egg-security] use dta middleware
+2017-11-16 17:59:22,166 INFO 18171 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 17:59:22,193 INFO 18171 [egg-watcher:app] watcher start success
+2017-11-16 17:59:22,909 INFO 18171 [egg-view-nunjucks] loading templates from ["/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/view"]
+2017-11-16 18:00:21,606 INFO 18179 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 18:00:21,623 INFO 18179 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 18:00:21,623 INFO 18179 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 18:00:21,657 INFO 18179 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 18:00:21,659 INFO 18179 [egg-security] use csrf middleware
+2017-11-16 18:00:21,660 INFO 18179 [egg-security] use methodnoallow middleware
+2017-11-16 18:00:21,660 INFO 18179 [egg-security] use noopen middleware
+2017-11-16 18:00:21,660 INFO 18179 [egg-security] use nosniff middleware
+2017-11-16 18:00:21,660 INFO 18179 [egg-security] use xssProtection middleware
+2017-11-16 18:00:21,661 INFO 18179 [egg-security] use xframe middleware
+2017-11-16 18:00:21,661 INFO 18179 [egg-security] use dta middleware
+2017-11-16 18:00:21,661 INFO 18179 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 18:00:21,688 INFO 18179 [egg-watcher:app] watcher start success
+2017-11-16 18:00:26,097 INFO 18180 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 18:00:26,116 INFO 18180 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 18:00:26,116 INFO 18180 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 18:00:26,150 INFO 18180 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 18:00:26,152 INFO 18180 [egg-security] use csrf middleware
+2017-11-16 18:00:26,153 INFO 18180 [egg-security] use methodnoallow middleware
+2017-11-16 18:00:26,153 INFO 18180 [egg-security] use noopen middleware
+2017-11-16 18:00:26,154 INFO 18180 [egg-security] use nosniff middleware
+2017-11-16 18:00:26,154 INFO 18180 [egg-security] use xssProtection middleware
+2017-11-16 18:00:26,154 INFO 18180 [egg-security] use xframe middleware
+2017-11-16 18:00:26,155 INFO 18180 [egg-security] use dta middleware
+2017-11-16 18:00:26,155 INFO 18180 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 18:00:26,184 INFO 18180 [egg-watcher:app] watcher start success
+2017-11-16 18:00:28,643 INFO 18180 [egg-view-nunjucks] loading templates from ["/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/view"]
+2017-11-16 18:00:33,316 INFO 18181 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 18:00:33,333 INFO 18181 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 18:00:33,333 INFO 18181 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 18:00:33,369 INFO 18181 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 18:00:33,372 INFO 18181 [egg-security] use csrf middleware
+2017-11-16 18:00:33,372 INFO 18181 [egg-security] use methodnoallow middleware
+2017-11-16 18:00:33,373 INFO 18181 [egg-security] use noopen middleware
+2017-11-16 18:00:33,373 INFO 18181 [egg-security] use nosniff middleware
+2017-11-16 18:00:33,373 INFO 18181 [egg-security] use xssProtection middleware
+2017-11-16 18:00:33,373 INFO 18181 [egg-security] use xframe middleware
+2017-11-16 18:00:33,374 INFO 18181 [egg-security] use dta middleware
+2017-11-16 18:00:33,374 INFO 18181 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 18:00:33,402 INFO 18181 [egg-watcher:app] watcher start success
+2017-11-16 18:00:34,541 INFO 18181 [egg-view-nunjucks] loading templates from ["/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/view"]
+2017-11-16 18:00:42,695 INFO 18182 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 18:00:42,709 INFO 18182 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 18:00:42,709 INFO 18182 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 18:00:42,739 INFO 18182 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 18:00:42,741 INFO 18182 [egg-security] use csrf middleware
+2017-11-16 18:00:42,742 INFO 18182 [egg-security] use methodnoallow middleware
+2017-11-16 18:00:42,742 INFO 18182 [egg-security] use noopen middleware
+2017-11-16 18:00:42,742 INFO 18182 [egg-security] use nosniff middleware
+2017-11-16 18:00:42,743 INFO 18182 [egg-security] use xssProtection middleware
+2017-11-16 18:00:42,743 INFO 18182 [egg-security] use xframe middleware
+2017-11-16 18:00:42,743 INFO 18182 [egg-security] use dta middleware
+2017-11-16 18:00:42,743 INFO 18182 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 18:00:42,773 INFO 18182 [egg-watcher:app] watcher start success
+2017-11-16 18:00:45,022 INFO 18182 [egg-view-nunjucks] loading templates from ["/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/view"]
+2017-11-16 18:00:56,409 INFO 18183 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 18:00:56,426 INFO 18183 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 18:00:56,426 INFO 18183 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 18:00:56,456 INFO 18183 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 18:00:56,458 INFO 18183 [egg-security] use csrf middleware
+2017-11-16 18:00:56,459 INFO 18183 [egg-security] use methodnoallow middleware
+2017-11-16 18:00:56,459 INFO 18183 [egg-security] use noopen middleware
+2017-11-16 18:00:56,460 INFO 18183 [egg-security] use nosniff middleware
+2017-11-16 18:00:56,460 INFO 18183 [egg-security] use xssProtection middleware
+2017-11-16 18:00:56,460 INFO 18183 [egg-security] use xframe middleware
+2017-11-16 18:00:56,460 INFO 18183 [egg-security] use dta middleware
+2017-11-16 18:00:56,460 INFO 18183 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 18:00:56,486 INFO 18183 [egg-watcher:app] watcher start success
+2017-11-16 18:20:19,972 INFO 18761 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 18:20:19,988 INFO 18761 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 18:20:19,988 INFO 18761 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 18:20:20,020 INFO 18761 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 18:20:20,022 INFO 18761 [egg-security] use csrf middleware
+2017-11-16 18:20:20,023 INFO 18761 [egg-security] use methodnoallow middleware
+2017-11-16 18:20:20,023 INFO 18761 [egg-security] use noopen middleware
+2017-11-16 18:20:20,023 INFO 18761 [egg-security] use nosniff middleware
+2017-11-16 18:20:20,024 INFO 18761 [egg-security] use xssProtection middleware
+2017-11-16 18:20:20,024 INFO 18761 [egg-security] use xframe middleware
+2017-11-16 18:20:20,024 INFO 18761 [egg-security] use dta middleware
+2017-11-16 18:20:20,024 INFO 18761 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 18:20:20,055 INFO 18761 [egg-watcher:app] watcher start success
+2017-11-16 18:20:27,016 INFO 18761 [egg-view-nunjucks] loading templates from ["/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/view"]
+2017-11-16 18:20:46,662 INFO 18765 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 18:20:46,679 INFO 18765 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 18:20:46,679 INFO 18765 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 18:20:46,715 INFO 18765 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 18:20:46,718 INFO 18765 [egg-security] use csrf middleware
+2017-11-16 18:20:46,718 INFO 18765 [egg-security] use methodnoallow middleware
+2017-11-16 18:20:46,719 INFO 18765 [egg-security] use noopen middleware
+2017-11-16 18:20:46,719 INFO 18765 [egg-security] use nosniff middleware
+2017-11-16 18:20:46,720 INFO 18765 [egg-security] use xssProtection middleware
+2017-11-16 18:20:46,720 INFO 18765 [egg-security] use xframe middleware
+2017-11-16 18:20:46,720 INFO 18765 [egg-security] use dta middleware
+2017-11-16 18:20:46,720 INFO 18765 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 18:20:46,747 INFO 18765 [egg-watcher:app] watcher start success
+2017-11-16 18:20:53,324 INFO 18766 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 18:20:53,342 INFO 18766 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 18:20:53,342 INFO 18766 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 18:20:53,371 INFO 18766 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 18:20:53,373 INFO 18766 [egg-security] use csrf middleware
+2017-11-16 18:20:53,374 INFO 18766 [egg-security] use methodnoallow middleware
+2017-11-16 18:20:53,374 INFO 18766 [egg-security] use noopen middleware
+2017-11-16 18:20:53,374 INFO 18766 [egg-security] use nosniff middleware
+2017-11-16 18:20:53,375 INFO 18766 [egg-security] use xssProtection middleware
+2017-11-16 18:20:53,375 INFO 18766 [egg-security] use xframe middleware
+2017-11-16 18:20:53,375 INFO 18766 [egg-security] use dta middleware
+2017-11-16 18:20:53,375 INFO 18766 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 18:20:53,402 INFO 18766 [egg-watcher:app] watcher start success
+2017-11-16 18:20:58,518 INFO 18768 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 18:20:58,538 INFO 18768 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 18:20:58,538 INFO 18768 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 18:20:58,569 INFO 18768 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 18:20:58,571 INFO 18768 [egg-security] use csrf middleware
+2017-11-16 18:20:58,572 INFO 18768 [egg-security] use methodnoallow middleware
+2017-11-16 18:20:58,572 INFO 18768 [egg-security] use noopen middleware
+2017-11-16 18:20:58,572 INFO 18768 [egg-security] use nosniff middleware
+2017-11-16 18:20:58,572 INFO 18768 [egg-security] use xssProtection middleware
+2017-11-16 18:20:58,573 INFO 18768 [egg-security] use xframe middleware
+2017-11-16 18:20:58,573 INFO 18768 [egg-security] use dta middleware
+2017-11-16 18:20:58,573 INFO 18768 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 18:20:58,599 INFO 18768 [egg-watcher:app] watcher start success
+2017-11-16 18:21:14,850 INFO 18771 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 18:21:14,868 INFO 18771 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 18:21:14,868 INFO 18771 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 18:21:14,902 INFO 18771 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 18:21:14,904 INFO 18771 [egg-security] use csrf middleware
+2017-11-16 18:21:14,905 INFO 18771 [egg-security] use methodnoallow middleware
+2017-11-16 18:21:14,905 INFO 18771 [egg-security] use noopen middleware
+2017-11-16 18:21:14,905 INFO 18771 [egg-security] use nosniff middleware
+2017-11-16 18:21:14,905 INFO 18771 [egg-security] use xssProtection middleware
+2017-11-16 18:21:14,906 INFO 18771 [egg-security] use xframe middleware
+2017-11-16 18:21:14,906 INFO 18771 [egg-security] use dta middleware
+2017-11-16 18:21:14,906 INFO 18771 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 18:21:14,932 INFO 18771 [egg-watcher:app] watcher start success
+2017-11-16 18:21:21,011 INFO 18774 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 18:21:21,025 INFO 18774 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 18:21:21,025 INFO 18774 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 18:21:21,053 INFO 18774 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 18:21:21,055 INFO 18774 [egg-security] use csrf middleware
+2017-11-16 18:21:21,055 INFO 18774 [egg-security] use methodnoallow middleware
+2017-11-16 18:21:21,056 INFO 18774 [egg-security] use noopen middleware
+2017-11-16 18:21:21,056 INFO 18774 [egg-security] use nosniff middleware
+2017-11-16 18:21:21,056 INFO 18774 [egg-security] use xssProtection middleware
+2017-11-16 18:21:21,056 INFO 18774 [egg-security] use xframe middleware
+2017-11-16 18:21:21,057 INFO 18774 [egg-security] use dta middleware
+2017-11-16 18:21:21,057 INFO 18774 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 18:21:21,080 INFO 18774 [egg-watcher:app] watcher start success
+2017-11-16 18:21:26,232 INFO 18775 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 18:21:26,250 INFO 18775 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 18:21:26,250 INFO 18775 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 18:21:26,282 INFO 18775 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 18:21:26,284 INFO 18775 [egg-security] use csrf middleware
+2017-11-16 18:21:26,285 INFO 18775 [egg-security] use methodnoallow middleware
+2017-11-16 18:21:26,285 INFO 18775 [egg-security] use noopen middleware
+2017-11-16 18:21:26,285 INFO 18775 [egg-security] use nosniff middleware
+2017-11-16 18:21:26,285 INFO 18775 [egg-security] use xssProtection middleware
+2017-11-16 18:21:26,286 INFO 18775 [egg-security] use xframe middleware
+2017-11-16 18:21:26,286 INFO 18775 [egg-security] use dta middleware
+2017-11-16 18:21:26,286 INFO 18775 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 18:21:26,313 INFO 18775 [egg-watcher:app] watcher start success
+2017-11-16 18:21:32,049 INFO 18775 [egg-view-nunjucks] loading templates from ["/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/view"]
+2017-11-16 18:22:01,887 INFO 18779 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 18:22:01,903 INFO 18779 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 18:22:01,903 INFO 18779 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 18:22:01,939 INFO 18779 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 18:22:01,942 INFO 18779 [egg-security] use csrf middleware
+2017-11-16 18:22:01,943 INFO 18779 [egg-security] use methodnoallow middleware
+2017-11-16 18:22:01,943 INFO 18779 [egg-security] use noopen middleware
+2017-11-16 18:22:01,943 INFO 18779 [egg-security] use nosniff middleware
+2017-11-16 18:22:01,943 INFO 18779 [egg-security] use xssProtection middleware
+2017-11-16 18:22:01,944 INFO 18779 [egg-security] use xframe middleware
+2017-11-16 18:22:01,944 INFO 18779 [egg-security] use dta middleware
+2017-11-16 18:22:01,944 INFO 18779 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 18:22:01,973 INFO 18779 [egg-watcher:app] watcher start success
+2017-11-16 18:25:37,502 INFO 18925 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 18:25:37,521 INFO 18925 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 18:25:37,521 INFO 18925 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 18:25:37,559 INFO 18925 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 18:25:37,561 INFO 18925 [egg-security] use csrf middleware
+2017-11-16 18:25:37,562 INFO 18925 [egg-security] use methodnoallow middleware
+2017-11-16 18:25:37,562 INFO 18925 [egg-security] use noopen middleware
+2017-11-16 18:25:37,562 INFO 18925 [egg-security] use nosniff middleware
+2017-11-16 18:25:37,562 INFO 18925 [egg-security] use xssProtection middleware
+2017-11-16 18:25:37,563 INFO 18925 [egg-security] use xframe middleware
+2017-11-16 18:25:37,563 INFO 18925 [egg-security] use dta middleware
+2017-11-16 18:25:37,563 INFO 18925 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 18:25:37,593 INFO 18925 [egg-watcher:app] watcher start success
+2017-11-16 18:28:57,332 INFO 19099 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 18:28:57,349 INFO 19099 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 18:28:57,349 INFO 19099 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 18:28:57,383 INFO 19099 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 18:28:57,385 INFO 19099 [egg-security] use csrf middleware
+2017-11-16 18:28:57,386 INFO 19099 [egg-security] use methodnoallow middleware
+2017-11-16 18:28:57,386 INFO 19099 [egg-security] use noopen middleware
+2017-11-16 18:28:57,386 INFO 19099 [egg-security] use nosniff middleware
+2017-11-16 18:28:57,386 INFO 19099 [egg-security] use xssProtection middleware
+2017-11-16 18:28:57,387 INFO 19099 [egg-security] use xframe middleware
+2017-11-16 18:28:57,387 INFO 19099 [egg-security] use dta middleware
+2017-11-16 18:28:57,387 INFO 19099 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 18:28:57,415 INFO 19099 [egg-watcher:app] watcher start success
+2017-11-16 18:37:41,451 INFO 19505 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 18:37:41,467 INFO 19505 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 18:37:41,467 INFO 19505 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 18:37:41,496 INFO 19505 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 18:37:41,498 INFO 19505 [egg-security] use csrf middleware
+2017-11-16 18:37:41,498 INFO 19505 [egg-security] use methodnoallow middleware
+2017-11-16 18:37:41,499 INFO 19505 [egg-security] use noopen middleware
+2017-11-16 18:37:41,499 INFO 19505 [egg-security] use nosniff middleware
+2017-11-16 18:37:41,499 INFO 19505 [egg-security] use xssProtection middleware
+2017-11-16 18:37:41,500 INFO 19505 [egg-security] use xframe middleware
+2017-11-16 18:37:41,500 INFO 19505 [egg-security] use dta middleware
+2017-11-16 18:37:41,500 INFO 19505 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 18:37:41,529 INFO 19505 [egg-watcher:app] watcher start success
+2017-11-16 18:40:54,342 INFO 19669 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 18:40:54,358 INFO 19669 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 18:40:54,358 INFO 19669 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 18:40:54,391 INFO 19669 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 18:40:54,393 INFO 19669 [egg-security] use csrf middleware
+2017-11-16 18:40:54,394 INFO 19669 [egg-security] use methodnoallow middleware
+2017-11-16 18:40:54,394 INFO 19669 [egg-security] use noopen middleware
+2017-11-16 18:40:54,394 INFO 19669 [egg-security] use nosniff middleware
+2017-11-16 18:40:54,394 INFO 19669 [egg-security] use xssProtection middleware
+2017-11-16 18:40:54,395 INFO 19669 [egg-security] use xframe middleware
+2017-11-16 18:40:54,395 INFO 19669 [egg-security] use dta middleware
+2017-11-16 18:40:54,395 INFO 19669 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 18:40:54,422 INFO 19669 [egg-watcher:app] watcher start success
+2017-11-16 18:43:14,916 INFO 19866 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 18:43:14,931 INFO 19866 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 18:43:14,931 INFO 19866 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 18:43:14,962 INFO 19866 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 18:43:14,965 INFO 19866 [egg-security] use csrf middleware
+2017-11-16 18:43:14,965 INFO 19866 [egg-security] use methodnoallow middleware
+2017-11-16 18:43:14,965 INFO 19866 [egg-security] use noopen middleware
+2017-11-16 18:43:14,966 INFO 19866 [egg-security] use nosniff middleware
+2017-11-16 18:43:14,966 INFO 19866 [egg-security] use xssProtection middleware
+2017-11-16 18:43:14,966 INFO 19866 [egg-security] use xframe middleware
+2017-11-16 18:43:14,966 INFO 19866 [egg-security] use dta middleware
+2017-11-16 18:43:14,966 INFO 19866 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 18:43:14,992 INFO 19866 [egg-watcher:app] watcher start success
+2017-11-16 18:43:23,293 INFO 19868 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 18:43:23,307 INFO 19868 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 18:43:23,307 INFO 19868 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 18:43:23,335 INFO 19868 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 18:43:23,337 INFO 19868 [egg-security] use csrf middleware
+2017-11-16 18:43:23,337 INFO 19868 [egg-security] use methodnoallow middleware
+2017-11-16 18:43:23,338 INFO 19868 [egg-security] use noopen middleware
+2017-11-16 18:43:23,338 INFO 19868 [egg-security] use nosniff middleware
+2017-11-16 18:43:23,338 INFO 19868 [egg-security] use xssProtection middleware
+2017-11-16 18:43:23,339 INFO 19868 [egg-security] use xframe middleware
+2017-11-16 18:43:23,339 INFO 19868 [egg-security] use dta middleware
+2017-11-16 18:43:23,339 INFO 19868 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 18:43:23,366 INFO 19868 [egg-watcher:app] watcher start success
+2017-11-16 18:43:24,300 INFO 19869 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 18:43:24,318 INFO 19869 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 18:43:24,318 INFO 19869 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 18:43:24,352 INFO 19869 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 18:43:24,355 INFO 19869 [egg-security] use csrf middleware
+2017-11-16 18:43:24,356 INFO 19869 [egg-security] use methodnoallow middleware
+2017-11-16 18:43:24,356 INFO 19869 [egg-security] use noopen middleware
+2017-11-16 18:43:24,356 INFO 19869 [egg-security] use nosniff middleware
+2017-11-16 18:43:24,356 INFO 19869 [egg-security] use xssProtection middleware
+2017-11-16 18:43:24,357 INFO 19869 [egg-security] use xframe middleware
+2017-11-16 18:43:24,357 INFO 19869 [egg-security] use dta middleware
+2017-11-16 18:43:24,357 INFO 19869 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 18:43:24,384 INFO 19869 [egg-watcher:app] watcher start success
+2017-11-16 18:43:40,175 INFO 19870 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 18:43:40,192 INFO 19870 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 18:43:40,192 INFO 19870 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 18:43:40,230 INFO 19870 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 18:43:40,233 INFO 19870 [egg-security] use csrf middleware
+2017-11-16 18:43:40,233 INFO 19870 [egg-security] use methodnoallow middleware
+2017-11-16 18:43:40,233 INFO 19870 [egg-security] use noopen middleware
+2017-11-16 18:43:40,234 INFO 19870 [egg-security] use nosniff middleware
+2017-11-16 18:43:40,234 INFO 19870 [egg-security] use xssProtection middleware
+2017-11-16 18:43:40,234 INFO 19870 [egg-security] use xframe middleware
+2017-11-16 18:43:40,234 INFO 19870 [egg-security] use dta middleware
+2017-11-16 18:43:40,234 INFO 19870 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 18:43:40,265 INFO 19870 [egg-watcher:app] watcher start success
+2017-11-16 18:44:01,301 INFO 19871 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 18:44:01,316 INFO 19871 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 18:44:01,316 INFO 19871 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 18:44:01,347 INFO 19871 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 18:44:01,349 INFO 19871 [egg-security] use csrf middleware
+2017-11-16 18:44:01,350 INFO 19871 [egg-security] use methodnoallow middleware
+2017-11-16 18:44:01,350 INFO 19871 [egg-security] use noopen middleware
+2017-11-16 18:44:01,350 INFO 19871 [egg-security] use nosniff middleware
+2017-11-16 18:44:01,350 INFO 19871 [egg-security] use xssProtection middleware
+2017-11-16 18:44:01,351 INFO 19871 [egg-security] use xframe middleware
+2017-11-16 18:44:01,351 INFO 19871 [egg-security] use dta middleware
+2017-11-16 18:44:01,351 INFO 19871 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 18:44:01,375 INFO 19871 [egg-watcher:app] watcher start success
+2017-11-16 18:44:03,329 INFO 19873 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 18:44:03,343 INFO 19873 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 18:44:03,343 INFO 19873 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 18:44:03,373 INFO 19873 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 18:44:03,376 INFO 19873 [egg-security] use csrf middleware
+2017-11-16 18:44:03,377 INFO 19873 [egg-security] use methodnoallow middleware
+2017-11-16 18:44:03,377 INFO 19873 [egg-security] use noopen middleware
+2017-11-16 18:44:03,377 INFO 19873 [egg-security] use nosniff middleware
+2017-11-16 18:44:03,377 INFO 19873 [egg-security] use xssProtection middleware
+2017-11-16 18:44:03,378 INFO 19873 [egg-security] use xframe middleware
+2017-11-16 18:44:03,378 INFO 19873 [egg-security] use dta middleware
+2017-11-16 18:44:03,378 INFO 19873 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 18:44:03,405 INFO 19873 [egg-watcher:app] watcher start success
+2017-11-16 18:45:29,943 INFO 20036 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 18:45:29,958 INFO 20036 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 18:45:29,958 INFO 20036 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 18:45:29,995 INFO 20036 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 18:45:29,997 INFO 20036 [egg-security] use csrf middleware
+2017-11-16 18:45:29,997 INFO 20036 [egg-security] use methodnoallow middleware
+2017-11-16 18:45:29,998 INFO 20036 [egg-security] use noopen middleware
+2017-11-16 18:45:29,998 INFO 20036 [egg-security] use nosniff middleware
+2017-11-16 18:45:29,998 INFO 20036 [egg-security] use xssProtection middleware
+2017-11-16 18:45:29,998 INFO 20036 [egg-security] use xframe middleware
+2017-11-16 18:45:29,999 INFO 20036 [egg-security] use dta middleware
+2017-11-16 18:45:29,999 INFO 20036 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 18:45:30,024 INFO 20036 [egg-watcher:app] watcher start success
+2017-11-16 18:45:31,479 INFO 20037 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 18:45:31,494 INFO 20037 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 18:45:31,494 INFO 20037 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 18:45:31,527 INFO 20037 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 18:45:31,529 INFO 20037 [egg-security] use csrf middleware
+2017-11-16 18:45:31,529 INFO 20037 [egg-security] use methodnoallow middleware
+2017-11-16 18:45:31,529 INFO 20037 [egg-security] use noopen middleware
+2017-11-16 18:45:31,530 INFO 20037 [egg-security] use nosniff middleware
+2017-11-16 18:45:31,530 INFO 20037 [egg-security] use xssProtection middleware
+2017-11-16 18:45:31,530 INFO 20037 [egg-security] use xframe middleware
+2017-11-16 18:45:31,530 INFO 20037 [egg-security] use dta middleware
+2017-11-16 18:45:31,530 INFO 20037 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 18:45:31,557 INFO 20037 [egg-watcher:app] watcher start success
+2017-11-16 18:45:33,018 INFO 20039 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 18:45:33,033 INFO 20039 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 18:45:33,033 INFO 20039 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 18:45:33,061 INFO 20039 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 18:45:33,063 INFO 20039 [egg-security] use csrf middleware
+2017-11-16 18:45:33,064 INFO 20039 [egg-security] use methodnoallow middleware
+2017-11-16 18:45:33,064 INFO 20039 [egg-security] use noopen middleware
+2017-11-16 18:45:33,064 INFO 20039 [egg-security] use nosniff middleware
+2017-11-16 18:45:33,064 INFO 20039 [egg-security] use xssProtection middleware
+2017-11-16 18:45:33,065 INFO 20039 [egg-security] use xframe middleware
+2017-11-16 18:45:33,065 INFO 20039 [egg-security] use dta middleware
+2017-11-16 18:45:33,065 INFO 20039 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 18:45:33,088 INFO 20039 [egg-watcher:app] watcher start success
+2017-11-16 18:45:34,049 INFO 20040 [egg:logger] init all loggers with options: {"dir":"/Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/logs/egg-example-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2017-11-16 18:45:34,066 INFO 20040 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-11-16 18:45:34,066 INFO 20040 [egg-schedule]: register schedule /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-11-16 18:45:34,100 INFO 20040 [egg-static] starting static serve /public/ -> /Users/fangcaoapple/Documents/2017_projects/atom/xjk/egg-example-pro/app/public
+2017-11-16 18:45:34,102 INFO 20040 [egg-security] use csrf middleware
+2017-11-16 18:45:34,103 INFO 20040 [egg-security] use methodnoallow middleware
+2017-11-16 18:45:34,103 INFO 20040 [egg-security] use noopen middleware
+2017-11-16 18:45:34,104 INFO 20040 [egg-security] use nosniff middleware
+2017-11-16 18:45:34,104 INFO 20040 [egg-security] use xssProtection middleware
+2017-11-16 18:45:34,104 INFO 20040 [egg-security] use xframe middleware
+2017-11-16 18:45:34,104 INFO 20040 [egg-security] use dta middleware
+2017-11-16 18:45:34,104 INFO 20040 [egg-security] compose 7 middlewares into one security middleware
+2017-11-16 18:45:34,133 INFO 20040 [egg-watcher:app] watcher start success

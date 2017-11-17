@@ -1,0 +1,19 @@
+{
+  "name": "egg-example-pro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "egg-bin dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wfc",
+  "license": "ISC",
+  "dependencies": {
+    "egg": "^1.11.0",
+    "egg-view-nunjucks": "^2.1.4"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.3.5"
+  }
+}
